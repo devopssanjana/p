@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 hi
 
 hello
 
 hwru
 
+=======
+hi
+>>>>>>> parent of be348d3... hello
