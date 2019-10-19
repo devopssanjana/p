@@ -3,8 +3,11 @@ hi
 
 hello
 
+<<<<<<< HEAD
 hwru
 
 =======
 hi
 >>>>>>> parent of be348d3... hello
+=======
+>>>>>>> parent of 23bd032... hwru
